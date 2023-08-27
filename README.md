@@ -20,7 +20,9 @@ Check the weather in other locations: Swipe left or right on the screen, or tap 
  
 
 ## Team Member
-Devesh Verma
+Trupti Dharajiya 
+Om Desai
+
 ## Introduction
 Our task was to implement our HTML, CSS, Advanced JavaScript  knowledge which we had learned at Masai. We used this skillset to build a static copy of Weather applicaton along with the responsiveness of the page for different screen sizes and some user interactivity with Advanced JS.
  
@@ -30,4 +32,4 @@ Our task was to implement our HTML, CSS, Advanced JavaScript  knowledge which we
  
 
 # Go to Website
-https://webdeveshverma.github.io/Check-Weather-Appliction-/
+https://github.com/trupti1026/whether-webapp.git
